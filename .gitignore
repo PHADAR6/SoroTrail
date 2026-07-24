@@ -1,8 +1,10 @@
 /bin/
 /dist/
 *.test
+temp_auto_push.bat
 coverage.out
 .env
 .idea/
-.vscode/
 .claude/settings.local.json
+.gitignore
+branch_structure.json
