@@ -2,7 +2,11 @@
 /dist/
 *.test
 coverage.out
-.env
+temp_auto_push.bat
 .idea/
-.vscode/
 .claude/settings.local.json
+/sorotrail
+.gitignore
+branch_structure.json
+config.bat
+node_modules
